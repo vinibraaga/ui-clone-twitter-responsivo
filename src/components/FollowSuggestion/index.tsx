@@ -20,14 +20,11 @@ const FollowSuggestion: React.FC<Props> = ({
     <Container>
         <div>
           <Avatar />
-
           <Info>
             <strong>{name}</strong>
             <span>{nickname}</span>
           </Info>
-
         </div>
-
         <FollowButton outlined>Seguir</FollowButton>
     </Container>
   );
