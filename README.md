@@ -1,7 +1,7 @@
 # ui-clone-twitter-responsivo
 Aplicação em React reproduzindo a interface do Twitter!
 
-## Techs
+## Tech
 
 - React.js
 - Styled Components
